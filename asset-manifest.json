@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Jewel/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Jewel/static/js/main.2aca29b8.chunk.js",
-    "main.js.map": "/Jewel/static/js/main.2aca29b8.chunk.js.map",
+    "main.css": "/Jewel/static/css/main.f0d0621c.chunk.css",
+    "main.js": "/Jewel/static/js/main.da7712fc.chunk.js",
+    "main.js.map": "/Jewel/static/js/main.da7712fc.chunk.js.map",
     "runtime-main.js": "/Jewel/static/js/runtime-main.ef999ad0.js",
     "runtime-main.js.map": "/Jewel/static/js/runtime-main.ef999ad0.js.map",
-    "static/js/2.205a9d35.chunk.js": "/Jewel/static/js/2.205a9d35.chunk.js",
-    "static/js/2.205a9d35.chunk.js.map": "/Jewel/static/js/2.205a9d35.chunk.js.map",
+    "static/js/2.bab72c6a.chunk.js": "/Jewel/static/js/2.bab72c6a.chunk.js",
+    "static/js/2.bab72c6a.chunk.js.map": "/Jewel/static/js/2.bab72c6a.chunk.js.map",
     "index.html": "/Jewel/index.html",
-    "precache-manifest.eef695e18c15813f10cf3a117ba62273.js": "/Jewel/precache-manifest.eef695e18c15813f10cf3a117ba62273.js",
+    "precache-manifest.84408a35e4cc0389108796b0b0be21b5.js": "/Jewel/precache-manifest.84408a35e4cc0389108796b0b0be21b5.js",
     "service-worker.js": "/Jewel/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Jewel/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.205a9d35.chunk.js.LICENSE.txt": "/Jewel/static/js/2.205a9d35.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Jewel/static/media/logo.5d5d9eef.svg"
+    "static/css/main.f0d0621c.chunk.css.map": "/Jewel/static/css/main.f0d0621c.chunk.css.map",
+    "static/js/2.bab72c6a.chunk.js.LICENSE.txt": "/Jewel/static/js/2.bab72c6a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Jewel/static/media/243.02fac17e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ef999ad0.js",
-    "static/js/2.205a9d35.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2aca29b8.chunk.js"
+    "static/js/2.bab72c6a.chunk.js",
+    "static/css/main.f0d0621c.chunk.css",
+    "static/js/main.da7712fc.chunk.js"
   ]
 }
