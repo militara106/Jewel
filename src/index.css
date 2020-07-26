@@ -30,6 +30,7 @@ code {
   background: url("./243.jpg");
   height: 100%;
   background-position: center;
+  background-repeat: no-repeat;
   filter: brightness(50%);
 }
 
@@ -40,6 +41,7 @@ code {
 
 .textBox{
   top: 60%;
+  width: 100%;
   position: absolute;
   line-height: 2.5rem;
 }
@@ -76,4 +78,17 @@ button{
 .borderlessButton{
   background: none;
   border: none;
+}
+
+
+/* Non-Mobile Screen */
+@media only screen and (min-width: 768px) {
+
+  .borderButton{
+   width: 40%;
+  }
+
+  .bg{
+    background-size: cover;
+  }
 }
