@@ -1,13 +1,79 @@
+/* Import Comfortaa Font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    sans-serif; */
+    font-family: 'Comfortaa', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: white;
+  text-shadow: 2px 2px 11px rgba(0,0,0,0.5) !important;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; */
+    font-family: 'Comfortaa', cursive;
+}
+
+.centered{
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.bg{
+  background: url("./243.jpg");
+  height: 100%;
+  background-position: center;
+  filter: brightness(50%);
+}
+
+.landing{
+  line-height: 2rem;
+  letter-spacing: .25rem;
+}
+
+.textBox{
+  top: 60%;
+  position: absolute;
+  line-height: 2.5rem;
+}
+
+.landingTitle{
+  font-size: 3rem;
+}
+
+.landingDesc{
+  font-size: .5rem;
+  width: 70%;
+  line-height: .9rem;
+  margin: auto;
+  opacity: 70%;
+}
+
+button{
+  font-family: 'Comfortaa', cursive;
+  color: white;
+  font-size: .8rem;
+  margin: 1rem;
+  text-shadow: 2px 2px 11px rgba(0,0,0,0.5) !important;
+  letter-spacing: .2rem;
+}
+
+.borderButton{
+  background-color: lightgray;
+  border: none;
+  border-radius: 2rem;
+  width: 90%;
+  padding: 1.1rem;
+}
+
+.borderlessButton{
+  background: none;
+  border: none;
 }
