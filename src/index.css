@@ -10,8 +10,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: white;
-  background: grey;
+  background: url("./243.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
   text-shadow: 2px 2px 11px rgba(0, 0, 0, 0.5) !important;
+  overflow: hidden;
 }
 
 code {
