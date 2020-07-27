@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jewel/static/css/main.f8ab1ed6.chunk.css",
+    "main.css": "/Jewel/static/css/main.c73d2ced.chunk.css",
     "main.js": "/Jewel/static/js/main.9864d3f8.chunk.js",
     "main.js.map": "/Jewel/static/js/main.9864d3f8.chunk.js.map",
     "runtime-main.js": "/Jewel/static/js/runtime-main.ef999ad0.js",
@@ -8,16 +8,16 @@
     "static/js/2.dd70b949.chunk.js": "/Jewel/static/js/2.dd70b949.chunk.js",
     "static/js/2.dd70b949.chunk.js.map": "/Jewel/static/js/2.dd70b949.chunk.js.map",
     "index.html": "/Jewel/index.html",
-    "precache-manifest.058042ac17d338dd6dbd0afbad752acc.js": "/Jewel/precache-manifest.058042ac17d338dd6dbd0afbad752acc.js",
+    "precache-manifest.fde522f4a83450fde651f45dfcdd3cc9.js": "/Jewel/precache-manifest.fde522f4a83450fde651f45dfcdd3cc9.js",
     "service-worker.js": "/Jewel/service-worker.js",
-    "static/css/main.f8ab1ed6.chunk.css.map": "/Jewel/static/css/main.f8ab1ed6.chunk.css.map",
+    "static/css/main.c73d2ced.chunk.css.map": "/Jewel/static/css/main.c73d2ced.chunk.css.map",
     "static/js/2.dd70b949.chunk.js.LICENSE.txt": "/Jewel/static/js/2.dd70b949.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Jewel/static/media/243.02fac17e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ef999ad0.js",
     "static/js/2.dd70b949.chunk.js",
-    "static/css/main.f8ab1ed6.chunk.css",
+    "static/css/main.c73d2ced.chunk.css",
     "static/js/main.9864d3f8.chunk.js"
   ]
 }
