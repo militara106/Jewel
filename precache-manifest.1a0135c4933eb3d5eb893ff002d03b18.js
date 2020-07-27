@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f7bb636f1b9148d128ef37130c7c8e2",
+    "revision": "ba972e3284f6be5a48c7e97063b1fdaf",
     "url": "/Jewel/index.html"
   },
   {
-    "revision": "749e670a33d940b6eff7",
-    "url": "/Jewel/static/css/main.f0d0621c.chunk.css"
+    "revision": "d6e9c238a7c12a61f37c",
+    "url": "/Jewel/static/css/main.ddfd890a.chunk.css"
   },
   {
     "revision": "1cf3b4141b2240e01a76",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Jewel/static/js/2.bab72c6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "749e670a33d940b6eff7",
+    "revision": "d6e9c238a7c12a61f37c",
     "url": "/Jewel/static/js/main.da7712fc.chunk.js"
   },
   {
