@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Jewel/static/css/main.ddfd890a.chunk.css",
-    "main.js": "/Jewel/static/js/main.da7712fc.chunk.js",
-    "main.js.map": "/Jewel/static/js/main.da7712fc.chunk.js.map",
+    "main.css": "/Jewel/static/css/main.5288b3aa.chunk.css",
+    "main.js": "/Jewel/static/js/main.9864d3f8.chunk.js",
+    "main.js.map": "/Jewel/static/js/main.9864d3f8.chunk.js.map",
     "runtime-main.js": "/Jewel/static/js/runtime-main.ef999ad0.js",
     "runtime-main.js.map": "/Jewel/static/js/runtime-main.ef999ad0.js.map",
-    "static/js/2.bab72c6a.chunk.js": "/Jewel/static/js/2.bab72c6a.chunk.js",
-    "static/js/2.bab72c6a.chunk.js.map": "/Jewel/static/js/2.bab72c6a.chunk.js.map",
+    "static/js/2.dd70b949.chunk.js": "/Jewel/static/js/2.dd70b949.chunk.js",
+    "static/js/2.dd70b949.chunk.js.map": "/Jewel/static/js/2.dd70b949.chunk.js.map",
     "index.html": "/Jewel/index.html",
-    "precache-manifest.1a0135c4933eb3d5eb893ff002d03b18.js": "/Jewel/precache-manifest.1a0135c4933eb3d5eb893ff002d03b18.js",
+    "precache-manifest.1f938ae7e9c982ffc9f27c791e37b7a3.js": "/Jewel/precache-manifest.1f938ae7e9c982ffc9f27c791e37b7a3.js",
     "service-worker.js": "/Jewel/service-worker.js",
-    "static/css/main.ddfd890a.chunk.css.map": "/Jewel/static/css/main.ddfd890a.chunk.css.map",
-    "static/js/2.bab72c6a.chunk.js.LICENSE.txt": "/Jewel/static/js/2.bab72c6a.chunk.js.LICENSE.txt",
+    "static/css/main.5288b3aa.chunk.css.map": "/Jewel/static/css/main.5288b3aa.chunk.css.map",
+    "static/js/2.dd70b949.chunk.js.LICENSE.txt": "/Jewel/static/js/2.dd70b949.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Jewel/static/media/243.02fac17e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ef999ad0.js",
-    "static/js/2.bab72c6a.chunk.js",
-    "static/css/main.ddfd890a.chunk.css",
-    "static/js/main.da7712fc.chunk.js"
+    "static/js/2.dd70b949.chunk.js",
+    "static/css/main.5288b3aa.chunk.css",
+    "static/js/main.9864d3f8.chunk.js"
   ]
 }
